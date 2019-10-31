@@ -1,0 +1,21 @@
+body{
+    background: khaki;
+    text-align: center;
+}
+#header1{
+    color: darkolivegreen;
+    font-size: 3em;
+}
+#header2{
+    color: brown;
+    font-size: 2em;
+}
+.green_h1{
+    color: darkolivegreen;
+}
+#waldo{
+    width: 60vw;
+}
+.paragraph_style{
+    font-size: 1em;
+}
